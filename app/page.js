@@ -59,9 +59,7 @@ export default function Home() {
           <p className="section-eyebrow">MY PATH</p>
           <h2 className="section-heading">Work Experience.</h2>
           <p className="section-intro">
-            I&apos;m early in my career, but I&apos;m building a foundation in
-            math, CS, and engineering to prepare for internships in software,
-            trading, or systems roles.
+            
           </p>
 
           <div className="timeline">
@@ -74,12 +72,10 @@ export default function Home() {
                 <p className="timeline-subtitle">Toronto · 2024–2026</p>
                 <ul>
                   <li>
-                    Focused on calculus, advanced functions, computer science,
-                    and economics.
+                    
                   </li>
                   <li>
-                    Rebuilding academic profile after A-Levels and aiming for
-                    engineering / CS at university.
+                  
                   </li>
                 </ul>
                 <p className="timeline-date">Now</p>
@@ -137,8 +133,7 @@ export default function Home() {
           <p className="section-eyebrow">SAY HI</p>
           <h2 className="section-heading">Contact.</h2>
           <p className="section-intro">
-            I&apos;m always open to chatting about engineering, CS, or
-            interesting projects.
+            I&apos;m always open 
           </p>
 
           <div className="contact-grid">
