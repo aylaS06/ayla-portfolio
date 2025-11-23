@@ -148,7 +148,7 @@ export default function Home() {
             </div>
             <div className="contact-card">
               <span className="contact-label">GitHub</span>
-              <span className="contact-value">@yourgithub</span>
+              <span className="contact-value">@aylaS06</span>
             </div>
             <div className="contact-card">
               <span className="contact-label">Location</span>
